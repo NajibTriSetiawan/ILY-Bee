@@ -30,8 +30,8 @@ ILY Bee is a digital project created by Arya Viharta as a token of love for his 
 
 - **Arya Viharta:** Creator and developer of ILY Bee.
 - **Tia:** Inspiration and recipient of Arya's affectionate gesture.
-- **Original Animation:** The animation segment within the project is credited to its original creator.
-
+- **Animation:** https://codepen.io/mdusmanansari/pen/BamepLe
+  
 ---
 
 **Message:**
