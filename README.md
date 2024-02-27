@@ -34,9 +34,10 @@ ILY Bee is a digital project created by Arya Viharta as a token of love for his 
 
 ---
 
-**License:**
+**Message:**
 
-This project is licensed under the [MIT License](LICENSE).
+Hopefully you, Arya Viharta and Tia will always be together in the future, 
+I as a friend can only pray and save one of your works for him that you have made with great effort.
 
 ---
 
